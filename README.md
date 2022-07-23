@@ -1,0 +1,2 @@
+# fundraiserDapp
+Hackathon task
